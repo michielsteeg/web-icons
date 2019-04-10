@@ -1,0 +1,24 @@
+{
+	"name": "appti-icons",
+	"resources": {
+		"css": {
+			"appti.css": {
+				"url": "appti.css"
+			}
+		},
+		"fonts": {
+			"appti.eot": {
+				"url": "appti.eot"
+			},
+			"appti.svg": {
+				"url": "appti.svg"
+			},
+			"appti.ttf": {
+				"url": "appti.ttf"
+			},
+			"appti.woff": {
+				"url": "appti.woff"
+			}
+		}
+	}
+}
