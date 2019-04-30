@@ -7,14 +7,14 @@
 			}
 		},
 		"fonts": {
-			"appti.svg": {
-				"url": "appti.svg"
+			"appti-icon.svg": {
+				"url": "appti-icon.svg"
 			},
-			"appti.ttf": {
-				"url": "appti.ttf"
+			"appti-icon.ttf": {
+				"url": "appti-icon.ttf"
 			},
-			"appti.woff": {
-				"url": "appti.woff"
+			"appti-icon.woff": {
+				"url": "appti-icon.woff"
 			}
 		}
 	}
